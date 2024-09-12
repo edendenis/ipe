@@ -52,7 +52,7 @@
 # 
 # Para configurar/instalar/usar o `ipe` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 # 
-# 1. Abra o terminal. Você pode fazer isso pressionando: `Ctrl + Alt + T`
+# 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 # 
 # 2. Digite o seguinte comando e pressione `Enter`:
 # 
